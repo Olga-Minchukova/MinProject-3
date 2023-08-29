@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int initialAmount = 153;
-        int replenishmentAmount = 1746;
+        int initialAmount = 200;
+        int replenishmentAmount = 2000;
 
         int bonus;
 
